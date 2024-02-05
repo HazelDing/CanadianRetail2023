@@ -1,7 +1,4 @@
-# CanadianRetail2023
-
-## Tableau Dashboard Project
-
+# CanadianRetail2023 Tableau Dashboard Project
 
 ## Title and Filter
 
